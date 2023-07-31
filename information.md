@@ -1,4 +1,4 @@
-# MeowCraft
+# What Is MeowCraft?
 MeowCraft is a Minecraft server aka smp full with magical things 🪄 like magic wand and magic hat much more you get adventure on every step with a custom game experience join now
 
 # How can i join?
