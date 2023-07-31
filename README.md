@@ -11,7 +11,7 @@ and yea its crossplay you can join with java and bedrock both enjoy!
 
 website: https://meowcraft.rf.gd/#
 
-discord: https://discord.gg/kGhNnYpmGh(must join for updates)
+discord: https://discord.gg/kGhNnYpmGh  (must join for updates)
 
 youtube: https://youtube.com/@MeowCraft_SMP_Official
 
