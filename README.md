@@ -1,18 +1,19 @@
-# What Is MeowCraft?
-🔮🐱 MeowCraft is a Minecraft server aka smp full with magical things 🪄 like magic wand and magic hat much more you get adventure on every step with a custom game experience join now 🐱🔮
+# MeowCraft - A Magical Minecraft Adventure 🪄
 
-# How can i join?
-you can join simply with ip!
-ip: meowcraft.zableey.com
-port for bedrock: 19132
-and yea its crossplay you can join with java and bedrock both enjoy!
+MeowCraft is a **magical Minecraft server (SMP)** filled with enchanting wonders like magic wands and mystical hats. _Embark on an adventure like no other_, with custom game experiences that await you!
 
-# must check
+## How to Join 🎮
 
-website: https://meowcraft.rf.gd/#
+You can join effortlessly with our server IP: `meowcraft.zableey.com`. For Bedrock players, use port `19132`. The best part? MeowCraft supports **crossplay**, so both Java and Bedrock players can unite and enjoy the magic together!
 
-discord: https://discord.gg/kGhNnYpmGh   (must join for updates)
+## Must-Check Links 🔗
 
-youtube: https://youtube.com/@MeowCraft_SMP_Official
+- **Website:** [MeowCraft](https://meowcraft.rf.gd/#)
 
-reddit: https://www.reddit.com/r/MeowwCraft?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=1&utm_content=1
+- **Discord Community:** [Join now for updates!](https://discord.gg/kGhNnYpmGh)
+
+- **YouTube Channel:** [MeowCraft SMP Official](https://youtube.com/<@&1120201155033694268>_SMP_Official)
+
+- **Reddit Community:** [/r/MeowwCraft](https://www.reddit.com/r/MeowwCraft?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=1&utm_content=1)
+
+Come and experience the **enchantment** of MeowCraft. Magic awaits you around every corner! ✨🌟
