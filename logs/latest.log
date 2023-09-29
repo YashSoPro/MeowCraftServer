@@ -1,0 +1,640 @@
+[00:00:21] [Server thread/INFO]: Visit our website: Check out our website
+[00:01:51] [Server thread/INFO]: Check out our website
+[00:02:51] [Server thread/INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+[00:04:51] [Server thread/INFO]: Check out our website
+[00:05:21] [Server thread/INFO]: Explore our server and have fun!
+[00:07:51] [Server thread/INFO]: Check out our website
+[00:07:51] [Server thread/INFO]: Join our community on Discord: here
+[00:10:21] [Server thread/INFO]: Visit our website: Check out our website
+[00:10:51] [Server thread/INFO]: Check out our website
+[00:12:51] [Server thread/INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+[00:13:51] [Server thread/INFO]: Check out our website
+[00:15:21] [Server thread/INFO]: Explore our server and have fun!
+[00:16:51] [Server thread/INFO]: Check out our website
+[00:17:51] [Server thread/INFO]: Join our community on Discord: here
+[00:17:56] [pool-30-thread-1/WARN]: github.scarsz.discordsrv.dependencies.jda.api.exceptions.ErrorResponseException: 503: N/A
+[00:17:56] [pool-30-thread-1/WARN]: 	at DiscordSRV-Build-1.26.2.jar//github.scarsz.discordsrv.dependencies.jda.internal.requests.RestActionImpl.complete(RestActionImpl.java:227)
+[00:17:56] [pool-30-thread-1/WARN]: 	at DiscordSRV-Build-1.26.2.jar//github.scarsz.discordsrv.dependencies.jda.api.requests.RestAction.complete(RestAction.java:633)
+[00:17:56] [pool-30-thread-1/WARN]: 	at DiscordSRV-Build-1.26.2.jar//me.scarsz.jdaappender.ChannelLoggingHandler.updateMessage(ChannelLoggingHandler.java:239)
+[00:17:56] [pool-30-thread-1/WARN]: 	at DiscordSRV-Build-1.26.2.jar//me.scarsz.jdaappender.ChannelLoggingHandler.flush(ChannelLoggingHandler.java:144)
+[00:17:56] [pool-30-thread-1/WARN]: 	at DiscordSRV-Build-1.26.2.jar//me.scarsz.jdaappender.ChannelLoggingHandler.lambda$schedule$0(ChannelLoggingHandler.java:55)
+[00:17:56] [pool-30-thread-1/WARN]: 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+[00:17:56] [pool-30-thread-1/WARN]: 	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+[00:17:56] [pool-30-thread-1/WARN]: 	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+[00:17:56] [pool-30-thread-1/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+[00:17:56] [pool-30-thread-1/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+[00:17:56] [pool-30-thread-1/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:833)
+[00:17:56] [pool-30-thread-1/WARN]: Caused by: github.scarsz.discordsrv.dependencies.jda.api.exceptions.ContextException
+[00:17:56] [pool-30-thread-1/WARN]: 	at DiscordSRV-Build-1.26.2.jar//github.scarsz.discordsrv.dependencies.jda.api.exceptions.ContextException.here(ContextException.java:54)
+[00:17:56] [pool-30-thread-1/WARN]: 	at DiscordSRV-Build-1.26.2.jar//github.scarsz.discordsrv.dependencies.jda.api.requests.Request.<init>(Request.java:71)
+[00:17:56] [pool-30-thread-1/WARN]: 	at DiscordSRV-Build-1.26.2.jar//github.scarsz.discordsrv.dependencies.jda.api.requests.RestFuture.<init>(RestFuture.java:36)
+[00:17:56] [pool-30-thread-1/WARN]: 	at DiscordSRV-Build-1.26.2.jar//github.scarsz.discordsrv.dependencies.jda.internal.requests.RestActionImpl.submit(RestActionImpl.java:209)
+[00:17:56] [pool-30-thread-1/WARN]: 	at DiscordSRV-Build-1.26.2.jar//github.scarsz.discordsrv.dependencies.jda.internal.requests.RestActionImpl.complete(RestActionImpl.java:219)
+[00:17:56] [pool-30-thread-1/WARN]: 	... 10 more
+[00:19:51] [Server thread/INFO]: Check out our website
+[00:20:21] [Server thread/INFO]: Visit our website: Check out our website
+[00:22:51] [Server thread/INFO]: Check out our website
+[00:22:51] [Server thread/INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+[00:25:21] [Server thread/INFO]: Explore our server and have fun!
+[00:25:51] [Server thread/INFO]: Check out our website
+[00:27:51] [Server thread/INFO]: Join our community on Discord: here
+[00:28:51] [Server thread/INFO]: Check out our website
+[00:30:21] [Server thread/INFO]: Visit our website: Check out our website
+[00:31:51] [Server thread/INFO]: Check out our website
+[00:32:51] [Server thread/INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+[00:34:51] [Server thread/INFO]: Check out our website
+[00:35:21] [Server thread/INFO]: Explore our server and have fun!
+[00:37:51] [Server thread/INFO]: Check out our website
+[00:37:51] [Server thread/INFO]: Join our community on Discord: here
+[00:40:21] [Server thread/INFO]: Visit our website: Check out our website
+[00:40:51] [Server thread/INFO]: Check out our website
+[00:42:51] [Server thread/INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+[00:43:51] [Server thread/INFO]: Check out our website
+[00:45:21] [Server thread/INFO]: Explore our server and have fun!
+[00:46:51] [Server thread/INFO]: Check out our website
+[00:47:51] [Server thread/INFO]: Join our community on Discord: here
+[00:49:51] [Server thread/INFO]: Check out our website
+[00:50:21] [Server thread/INFO]: Visit our website: Check out our website
+[00:52:49] [pool-24-thread-1/ERROR]: [DiscordSRV] Failed to fetch URL https://raw.githubusercontent.com/DiscordSRV/DiscordSRV/randomaccessfiles/minimumbuild: java.net.SocketException: Connection reset
+[00:52:49] [pool-24-thread-1/WARN]: [DiscordSRV] Failed to check against minimum version of DiscordSRV: received minimum build was not 40 characters long & thus not a commit hash
+[00:52:51] [Server thread/INFO]: Check out our website
+[00:52:51] [Server thread/INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+[00:55:21] [Server thread/INFO]: Explore our server and have fun!
+[00:55:51] [Server thread/INFO]: Check out our website
+[00:57:51] [Server thread/INFO]: Join our community on Discord: here
+[00:58:51] [Server thread/INFO]: Check out our website
+[01:00:21] [Server thread/INFO]: Visit our website: Check out our website
+[01:01:51] [Server thread/INFO]: Check out our website
+[01:02:51] [Server thread/INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+[01:04:51] [Server thread/INFO]: Check out our website
+[01:05:21] [Server thread/INFO]: Explore our server and have fun!
+[01:07:51] [Server thread/INFO]: Check out our website
+[01:07:51] [Server thread/INFO]: Join our community on Discord: here
+[01:10:21] [Server thread/INFO]: Visit our website: Check out our website
+[01:10:51] [Server thread/INFO]: Check out our website
+[01:12:51] [Server thread/INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+[01:13:51] [Server thread/INFO]: Check out our website
+[01:15:21] [Server thread/INFO]: Explore our server and have fun!
+[01:16:51] [Server thread/INFO]: Check out our website
+[01:17:51] [Server thread/INFO]: Join our community on Discord: here
+[01:19:51] [Server thread/INFO]: Check out our website
+[01:20:21] [Server thread/INFO]: Visit our website: Check out our website
+[01:22:51] [Server thread/INFO]: Check out our website
+[01:22:51] [Server thread/INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+[01:25:21] [Server thread/INFO]: Explore our server and have fun!
+[01:25:51] [Server thread/INFO]: Check out our website
+[01:27:51] [Server thread/INFO]: Join our community on Discord: here
+[01:28:51] [Server thread/INFO]: Check out our website
+[01:30:21] [Server thread/INFO]: Visit our website: Check out our website
+[01:31:51] [Server thread/INFO]: Check out our website
+[01:32:51] [Server thread/INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+[01:34:51] [Server thread/INFO]: Check out our website
+[01:35:21] [Server thread/INFO]: Explore our server and have fun!
+[01:37:51] [Server thread/INFO]: Check out our website
+[01:37:51] [Server thread/INFO]: Join our community on Discord: here
+[01:40:21] [Server thread/INFO]: Visit our website: Check out our website
+[01:40:51] [Server thread/INFO]: Check out our website
+[01:42:51] [Server thread/INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+[01:43:51] [Server thread/INFO]: Check out our website
+[01:45:21] [Server thread/INFO]: Explore our server and have fun!
+[01:46:51] [Server thread/INFO]: Check out our website
+[01:47:51] [Server thread/INFO]: Join our community on Discord: here
+[01:49:51] [Server thread/INFO]: Check out our website
+[01:50:21] [Server thread/INFO]: Visit our website: Check out our website
+[01:52:51] [Server thread/INFO]: Check out our website
+[01:52:51] [Server thread/INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+[01:55:21] [Server thread/INFO]: Explore our server and have fun!
+[01:55:51] [Server thread/INFO]: Check out our website
+[01:57:51] [Server thread/INFO]: Join our community on Discord: here
+[01:58:51] [Server thread/INFO]: Check out our website
+[02:00:21] [Server thread/INFO]: Visit our website: Check out our website
+[02:01:51] [Server thread/INFO]: Check out our website
+[02:02:51] [Server thread/INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+[02:04:51] [Server thread/INFO]: Check out our website
+[02:05:21] [Server thread/INFO]: Explore our server and have fun!
+[02:07:51] [Server thread/INFO]: Check out our website
+[02:07:51] [Server thread/INFO]: Join our community on Discord: here
+[02:10:21] [Server thread/INFO]: Visit our website: Check out our website
+[02:10:51] [Server thread/INFO]: Check out our website
+[02:12:51] [Server thread/INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+[02:13:51] [Server thread/INFO]: Check out our website
+[02:15:21] [Server thread/INFO]: Explore our server and have fun!
+[02:16:51] [Server thread/INFO]: Check out our website
+[02:17:51] [Server thread/INFO]: Join our community on Discord: here
+[02:19:51] [Server thread/INFO]: Check out our website
+[02:20:21] [Server thread/INFO]: Visit our website: Check out our website
+[02:22:51] [Server thread/INFO]: Check out our website
+[02:22:51] [Server thread/INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+[02:25:21] [Server thread/INFO]: Explore our server and have fun!
+[02:25:51] [Server thread/INFO]: Check out our website
+[02:27:51] [Server thread/INFO]: Join our community on Discord: here
+[02:28:51] [Server thread/INFO]: Check out our website
+[02:30:21] [Server thread/INFO]: Visit our website: Check out our website
+[02:31:51] [Server thread/INFO]: Check out our website
+[02:32:51] [Server thread/INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+[02:34:51] [Server thread/INFO]: Check out our website
+[02:35:21] [Server thread/INFO]: Explore our server and have fun!
+[02:37:51] [Server thread/INFO]: Check out our website
+[02:37:51] [Server thread/INFO]: Join our community on Discord: here
+[02:40:21] [Server thread/INFO]: Visit our website: Check out our website
+[02:40:51] [Server thread/INFO]: Check out our website
+[02:42:51] [Server thread/INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+[02:43:51] [Server thread/INFO]: Check out our website
+[02:45:21] [Server thread/INFO]: Explore our server and have fun!
+[02:46:51] [Server thread/INFO]: Check out our website
+[02:47:51] [Server thread/INFO]: Join our community on Discord: here
+[02:49:51] [Server thread/INFO]: Check out our website
+[02:50:21] [Server thread/INFO]: Visit our website: Check out our website
+[02:52:51] [Server thread/INFO]: Check out our website
+[02:52:51] [Server thread/INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+[02:55:21] [Server thread/INFO]: Explore our server and have fun!
+[02:55:51] [Server thread/INFO]: Check out our website
+[02:57:51] [Server thread/INFO]: Join our community on Discord: here
+[02:58:51] [Server thread/INFO]: Check out our website
+[03:00:21] [Server thread/INFO]: Visit our website: Check out our website
+[03:01:51] [Server thread/INFO]: Check out our website
+[03:02:51] [Server thread/INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+[03:04:51] [Server thread/INFO]: Check out our website
+[03:05:21] [Server thread/INFO]: Explore our server and have fun!
+[03:07:51] [Server thread/INFO]: Check out our website
+[03:07:51] [Server thread/INFO]: Join our community on Discord: here
+[03:10:21] [Server thread/INFO]: Visit our website: Check out our website
+[03:10:51] [Server thread/INFO]: Check out our website
+[03:12:51] [Server thread/INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+[03:13:51] [Server thread/INFO]: Check out our website
+[03:15:21] [Server thread/INFO]: Explore our server and have fun!
+[03:16:51] [Server thread/INFO]: Check out our website
+[03:17:51] [Server thread/INFO]: Join our community on Discord: here
+[03:19:51] [Server thread/INFO]: Check out our website
+[03:20:21] [Server thread/INFO]: Visit our website: Check out our website
+[03:22:51] [Server thread/INFO]: Check out our website
+[03:22:51] [Server thread/INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+[03:25:21] [Server thread/INFO]: Explore our server and have fun!
+[03:25:51] [Server thread/INFO]: Check out our website
+[03:27:51] [Server thread/INFO]: Join our community on Discord: here
+[03:28:51] [Server thread/INFO]: Check out our website
+[03:30:21] [Server thread/INFO]: Visit our website: Check out our website
+[03:31:51] [Server thread/INFO]: Check out our website
+[03:32:51] [Server thread/INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+[03:34:51] [Server thread/INFO]: Check out our website
+[03:35:21] [Server thread/INFO]: Explore our server and have fun!
+[03:37:51] [Server thread/INFO]: Check out our website
+[03:37:51] [Server thread/INFO]: Join our community on Discord: here
+[03:40:21] [Server thread/INFO]: Visit our website: Check out our website
+[03:40:51] [Server thread/INFO]: Check out our website
+[03:42:51] [Server thread/INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+[03:43:51] [Server thread/INFO]: Check out our website
+[03:45:21] [Server thread/INFO]: Explore our server and have fun!
+[03:46:51] [Server thread/INFO]: Check out our website
+[03:47:51] [Server thread/INFO]: Join our community on Discord: here
+[03:49:51] [Server thread/INFO]: Check out our website
+[03:50:21] [Server thread/INFO]: Visit our website: Check out our website
+[03:52:51] [Server thread/INFO]: Check out our website
+[03:52:51] [Server thread/INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+[03:55:21] [Server thread/INFO]: Explore our server and have fun!
+[03:55:51] [Server thread/INFO]: Check out our website
+[03:57:51] [Server thread/INFO]: Join our community on Discord: here
+[03:58:51] [Server thread/INFO]: Check out our website
+[04:00:21] [Server thread/INFO]: Visit our website: Check out our website
+[04:01:51] [Server thread/INFO]: Check out our website
+[04:02:51] [Server thread/INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+[04:04:51] [Server thread/INFO]: Check out our website
+[04:05:21] [Server thread/INFO]: Explore our server and have fun!
+[04:07:51] [Server thread/INFO]: Check out our website
+[04:07:51] [Server thread/INFO]: Join our community on Discord: here
+[04:10:21] [Server thread/INFO]: Visit our website: Check out our website
+[04:10:51] [Server thread/INFO]: Check out our website
+[04:12:51] [Server thread/INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+[04:13:51] [Server thread/INFO]: Check out our website
+[04:15:21] [Server thread/INFO]: Explore our server and have fun!
+[04:16:51] [Server thread/INFO]: Check out our website
+[04:17:51] [Server thread/INFO]: Join our community on Discord: here
+[04:19:51] [Server thread/INFO]: Check out our website
+[04:20:21] [Server thread/INFO]: Visit our website: Check out our website
+[04:22:51] [Server thread/INFO]: Check out our website
+[04:22:51] [Server thread/INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+[04:25:21] [Server thread/INFO]: Explore our server and have fun!
+[04:25:51] [Server thread/INFO]: Check out our website
+[04:27:51] [Server thread/INFO]: Join our community on Discord: here
+[04:28:51] [Server thread/INFO]: Check out our website
+[04:30:21] [Server thread/INFO]: Visit our website: Check out our website
+[04:31:51] [Server thread/INFO]: Check out our website
+[04:32:51] [Server thread/INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+[04:34:51] [Server thread/INFO]: Check out our website
+[04:35:21] [Server thread/INFO]: Explore our server and have fun!
+[04:37:51] [Server thread/INFO]: Check out our website
+[04:37:51] [Server thread/INFO]: Join our community on Discord: here
+[04:40:21] [Server thread/INFO]: Visit our website: Check out our website
+[04:40:51] [Server thread/INFO]: Check out our website
+[04:42:51] [Server thread/INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+[04:43:51] [Server thread/INFO]: Check out our website
+[04:45:21] [Server thread/INFO]: Explore our server and have fun!
+[04:46:51] [Server thread/INFO]: Check out our website
+[04:47:51] [Server thread/INFO]: Join our community on Discord: here
+[04:49:51] [Server thread/INFO]: Check out our website
+[04:50:21] [Server thread/INFO]: Visit our website: Check out our website
+[04:52:51] [Server thread/INFO]: Check out our website
+[04:52:51] [Server thread/INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+[04:55:21] [Server thread/INFO]: Explore our server and have fun!
+[04:55:51] [Server thread/INFO]: Check out our website
+[04:57:51] [Server thread/INFO]: Join our community on Discord: here
+[04:58:51] [Server thread/INFO]: Check out our website
+[05:00:21] [Server thread/INFO]: Visit our website: Check out our website
+[05:01:51] [Server thread/INFO]: Check out our website
+[05:02:51] [Server thread/INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+[05:04:51] [Server thread/INFO]: Check out our website
+[05:05:21] [Server thread/INFO]: Explore our server and have fun!
+[05:07:51] [Server thread/INFO]: Check out our website
+[05:07:51] [Server thread/INFO]: Join our community on Discord: here
+[05:10:21] [Server thread/INFO]: Visit our website: Check out our website
+[05:10:51] [Server thread/INFO]: Check out our website
+[05:12:51] [Server thread/INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+[05:13:51] [Server thread/INFO]: Check out our website
+[05:15:21] [Server thread/INFO]: Explore our server and have fun!
+[05:16:51] [Server thread/INFO]: Check out our website
+[05:17:51] [Server thread/INFO]: Join our community on Discord: here
+[05:19:51] [Server thread/INFO]: Check out our website
+[05:20:21] [Server thread/INFO]: Visit our website: Check out our website
+[05:22:51] [Server thread/INFO]: Check out our website
+[05:22:51] [Server thread/INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+[05:25:21] [Server thread/INFO]: Explore our server and have fun!
+[05:25:51] [Server thread/INFO]: Check out our website
+[05:27:51] [Server thread/INFO]: Join our community on Discord: here
+[05:28:51] [Server thread/INFO]: Check out our website
+[05:30:21] [Server thread/INFO]: Visit our website: Check out our website
+[05:31:51] [Server thread/INFO]: Check out our website
+[05:32:51] [Server thread/INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+[05:34:51] [Server thread/INFO]: Check out our website
+[05:35:21] [Server thread/INFO]: Explore our server and have fun!
+[05:37:51] [Server thread/INFO]: Check out our website
+[05:37:51] [Server thread/INFO]: Join our community on Discord: here
+[05:40:21] [Server thread/INFO]: Visit our website: Check out our website
+[05:40:51] [Server thread/INFO]: Check out our website
+[05:42:51] [Server thread/INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+[05:43:51] [Server thread/INFO]: Check out our website
+[05:45:21] [Server thread/INFO]: Explore our server and have fun!
+[05:46:51] [Server thread/INFO]: Check out our website
+[05:47:51] [Server thread/INFO]: Join our community on Discord: here
+[05:49:51] [Server thread/INFO]: Check out our website
+[05:50:21] [Server thread/INFO]: Visit our website: Check out our website
+[05:52:51] [Server thread/INFO]: Check out our website
+[05:52:51] [Server thread/INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+[05:55:21] [Server thread/INFO]: Explore our server and have fun!
+[05:55:51] [Server thread/INFO]: Check out our website
+[05:57:51] [Server thread/INFO]: Join our community on Discord: here
+[05:58:51] [Server thread/INFO]: Check out our website
+[06:00:21] [Server thread/INFO]: Visit our website: Check out our website
+[06:01:51] [Server thread/INFO]: Check out our website
+[06:02:51] [Server thread/INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+[06:04:51] [Server thread/INFO]: Check out our website
+[06:05:21] [Server thread/INFO]: Explore our server and have fun!
+[06:07:51] [Server thread/INFO]: Check out our website
+[06:07:51] [Server thread/INFO]: Join our community on Discord: here
+[06:10:21] [Server thread/INFO]: Visit our website: Check out our website
+[06:10:51] [Server thread/INFO]: Check out our website
+[06:12:51] [Server thread/INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+[06:13:51] [Server thread/INFO]: Check out our website
+[06:15:21] [Server thread/INFO]: Explore our server and have fun!
+[06:16:51] [Server thread/INFO]: Check out our website
+[06:17:51] [Server thread/INFO]: Join our community on Discord: here
+[06:19:51] [Server thread/INFO]: Check out our website
+[06:20:21] [Server thread/INFO]: Visit our website: Check out our website
+[06:22:51] [Server thread/INFO]: Check out our website
+[06:22:51] [Server thread/INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+[06:25:21] [Server thread/INFO]: Explore our server and have fun!
+[06:25:51] [Server thread/INFO]: Check out our website
+[06:27:51] [Server thread/INFO]: Join our community on Discord: here
+[06:28:51] [Server thread/INFO]: Check out our website
+[06:30:21] [Server thread/INFO]: Visit our website: Check out our website
+[06:31:51] [Server thread/INFO]: Check out our website
+[06:32:51] [Server thread/INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+[06:34:51] [Server thread/INFO]: Check out our website
+[06:35:21] [Server thread/INFO]: Explore our server and have fun!
+[06:37:51] [Server thread/INFO]: Check out our website
+[06:37:51] [Server thread/INFO]: Join our community on Discord: here
+[06:40:21] [Server thread/INFO]: Visit our website: Check out our website
+[06:40:51] [Server thread/INFO]: Check out our website
+[06:42:51] [Server thread/INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+[06:43:51] [Server thread/INFO]: Check out our website
+[06:45:21] [Server thread/INFO]: Explore our server and have fun!
+[06:46:51] [Server thread/INFO]: Check out our website
+[06:47:51] [Server thread/INFO]: Join our community on Discord: here
+[06:49:51] [Server thread/INFO]: Check out our website
+[06:50:21] [Server thread/INFO]: Visit our website: Check out our website
+[06:52:51] [Server thread/INFO]: Check out our website
+[06:52:51] [Server thread/INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+[06:55:21] [Server thread/INFO]: Explore our server and have fun!
+[06:55:51] [Server thread/INFO]: Check out our website
+[06:57:51] [Server thread/INFO]: Join our community on Discord: here
+[06:58:51] [Server thread/INFO]: Check out our website
+[07:00:21] [Server thread/INFO]: Visit our website: Check out our website
+[07:01:51] [Server thread/INFO]: Check out our website
+[07:02:51] [Server thread/INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+[07:04:51] [Server thread/INFO]: Check out our website
+[07:05:21] [Server thread/INFO]: Explore our server and have fun!
+[07:07:51] [Server thread/INFO]: Check out our website
+[07:07:51] [Server thread/INFO]: Join our community on Discord: here
+[07:10:21] [Server thread/INFO]: Visit our website: Check out our website
+[07:10:51] [Server thread/INFO]: Check out our website
+[07:12:51] [Server thread/INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+[07:13:51] [Server thread/INFO]: Check out our website
+[07:15:21] [Server thread/INFO]: Explore our server and have fun!
+[07:16:51] [Server thread/INFO]: Check out our website
+[07:17:51] [Server thread/INFO]: Join our community on Discord: here
+[07:19:51] [Server thread/INFO]: Check out our website
+[07:20:21] [Server thread/INFO]: Visit our website: Check out our website
+[07:22:51] [Server thread/INFO]: Check out our website
+[07:22:51] [Server thread/INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+[07:25:21] [Server thread/INFO]: Explore our server and have fun!
+[07:25:51] [Server thread/INFO]: Check out our website
+[07:27:51] [Server thread/INFO]: Join our community on Discord: here
+[07:28:51] [Server thread/INFO]: Check out our website
+[07:30:21] [Server thread/INFO]: Visit our website: Check out our website
+[07:31:51] [Server thread/INFO]: Check out our website
+[07:32:51] [Server thread/INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+[07:34:51] [Server thread/INFO]: Check out our website
+[07:35:21] [Server thread/INFO]: Explore our server and have fun!
+[07:37:51] [Server thread/INFO]: Check out our website
+[07:37:51] [Server thread/INFO]: Join our community on Discord: here
+[07:40:21] [Server thread/INFO]: Visit our website: Check out our website
+[07:40:51] [Server thread/INFO]: Check out our website
+[07:42:51] [Server thread/INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+[07:43:51] [Server thread/INFO]: Check out our website
+[07:45:21] [Server thread/INFO]: Explore our server and have fun!
+[07:46:51] [Server thread/INFO]: Check out our website
+[07:47:51] [Server thread/INFO]: Join our community on Discord: here
+[07:49:51] [Server thread/INFO]: Check out our website
+[07:50:21] [Server thread/INFO]: Visit our website: Check out our website
+[07:52:51] [Server thread/INFO]: Check out our website
+[07:52:51] [Server thread/INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+[07:55:21] [Server thread/INFO]: Explore our server and have fun!
+[07:55:51] [Server thread/INFO]: Check out our website
+[07:57:51] [Server thread/INFO]: Join our community on Discord: here
+[07:58:51] [Server thread/INFO]: Check out our website
+[08:00:21] [Server thread/INFO]: Visit our website: Check out our website
+[08:01:51] [Server thread/INFO]: Check out our website
+[08:02:51] [Server thread/INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+[08:04:51] [Server thread/INFO]: Check out our website
+[08:05:21] [Server thread/INFO]: Explore our server and have fun!
+[08:07:51] [Server thread/INFO]: Check out our website
+[08:07:51] [Server thread/INFO]: Join our community on Discord: here
+[08:10:21] [Server thread/INFO]: Visit our website: Check out our website
+[08:10:51] [Server thread/INFO]: Check out our website
+[08:12:51] [Server thread/INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+[08:13:51] [Server thread/INFO]: Check out our website
+[08:15:21] [Server thread/INFO]: Explore our server and have fun!
+[08:16:51] [Server thread/INFO]: Check out our website
+[08:17:51] [Server thread/INFO]: Join our community on Discord: here
+[08:19:51] [Server thread/INFO]: Check out our website
+[08:20:21] [Server thread/INFO]: Visit our website: Check out our website
+[08:22:51] [Server thread/INFO]: Check out our website
+[08:22:51] [Server thread/INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+[08:25:21] [Server thread/INFO]: Explore our server and have fun!
+[08:25:51] [Server thread/INFO]: Check out our website
+[08:27:51] [Server thread/INFO]: Join our community on Discord: here
+[08:28:51] [Server thread/INFO]: Check out our website
+[08:30:21] [Server thread/INFO]: Visit our website: Check out our website
+[08:31:51] [Server thread/INFO]: Check out our website
+[08:32:51] [Server thread/INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+[08:34:51] [Server thread/INFO]: Check out our website
+[08:35:21] [Server thread/INFO]: Explore our server and have fun!
+[08:37:51] [Server thread/INFO]: Check out our website
+[08:37:51] [Server thread/INFO]: Join our community on Discord: here
+[08:40:21] [Server thread/INFO]: Visit our website: Check out our website
+[08:40:51] [Server thread/INFO]: Check out our website
+[08:42:51] [Server thread/INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+[08:43:51] [Server thread/INFO]: Check out our website
+[08:45:21] [Server thread/INFO]: Explore our server and have fun!
+[08:46:51] [Server thread/INFO]: Check out our website
+[08:47:51] [Server thread/INFO]: Join our community on Discord: here
+[08:49:51] [Server thread/INFO]: Check out our website
+[08:50:21] [Server thread/INFO]: Visit our website: Check out our website
+[08:52:51] [Server thread/INFO]: Check out our website
+[08:52:51] [Server thread/INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+[08:55:21] [Server thread/INFO]: Explore our server and have fun!
+[08:55:51] [Server thread/INFO]: Check out our website
+[08:57:51] [Server thread/INFO]: Join our community on Discord: here
+[08:58:51] [Server thread/INFO]: Check out our website
+[09:00:21] [Server thread/INFO]: Visit our website: Check out our website
+[09:01:51] [Server thread/INFO]: Check out our website
+[09:02:51] [Server thread/INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+[09:04:51] [Server thread/INFO]: Check out our website
+[09:05:21] [Server thread/INFO]: Explore our server and have fun!
+[09:07:51] [Server thread/INFO]: Check out our website
+[09:07:51] [Server thread/INFO]: Join our community on Discord: here
+[09:10:21] [Server thread/INFO]: Visit our website: Check out our website
+[09:10:51] [Server thread/INFO]: Check out our website
+[09:12:51] [Server thread/INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+[09:13:51] [Server thread/INFO]: Check out our website
+[09:15:21] [Server thread/INFO]: Explore our server and have fun!
+[09:16:25] [Server thread/INFO]: [ProtocolLib] The updater found an update: 5.1.0 (Running 5.0.0). Download at https://www.spigotmc.org/resources/protocollib.1997/
+[09:16:51] [Server thread/INFO]: Check out our website
+[09:17:51] [Server thread/INFO]: Join our community on Discord: here
+[09:19:51] [Server thread/INFO]: Check out our website
+[09:20:21] [Server thread/INFO]: Visit our website: Check out our website
+[09:22:51] [Server thread/INFO]: Check out our website
+[09:22:51] [Server thread/INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+[09:25:21] [Server thread/INFO]: Explore our server and have fun!
+[09:25:51] [Server thread/INFO]: Check out our website
+[09:27:51] [Server thread/INFO]: Join our community on Discord: here
+[09:28:51] [Server thread/INFO]: Check out our website
+[09:30:21] [Server thread/INFO]: Visit our website: Check out our website
+[09:31:51] [Server thread/INFO]: Check out our website
+[09:32:51] [Server thread/INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+[09:34:51] [Server thread/INFO]: Check out our website
+[09:35:21] [Server thread/INFO]: Explore our server and have fun!
+[09:37:51] [Server thread/INFO]: Check out our website
+[09:37:51] [Server thread/INFO]: Join our community on Discord: here
+[09:40:21] [Server thread/INFO]: Visit our website: Check out our website
+[09:40:51] [Server thread/INFO]: Check out our website
+[09:42:51] [Server thread/INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+[09:43:51] [Server thread/INFO]: Check out our website
+[09:45:21] [Server thread/INFO]: Explore our server and have fun!
+[09:46:51] [Server thread/INFO]: Check out our website
+[09:47:51] [Server thread/INFO]: Join our community on Discord: here
+[09:49:51] [Server thread/INFO]: Check out our website
+[09:50:21] [Server thread/INFO]: Visit our website: Check out our website
+[09:52:51] [Server thread/INFO]: Check out our website
+[09:52:51] [Server thread/INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+[09:55:21] [Server thread/INFO]: Explore our server and have fun!
+[09:55:51] [Server thread/INFO]: Check out our website
+[09:57:51] [Server thread/INFO]: Join our community on Discord: here
+[09:58:51] [Server thread/INFO]: Check out our website
+[10:00:21] [Server thread/INFO]: Visit our website: Check out our website
+[10:01:51] [Server thread/INFO]: Check out our website
+[10:02:51] [Server thread/INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+[10:04:51] [Server thread/INFO]: Check out our website
+[10:05:21] [Server thread/INFO]: Explore our server and have fun!
+[10:07:51] [Server thread/INFO]: Check out our website
+[10:07:51] [Server thread/INFO]: Join our community on Discord: here
+[10:10:21] [Server thread/INFO]: Visit our website: Check out our website
+[10:10:51] [Server thread/INFO]: Check out our website
+[10:12:51] [Server thread/INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+[10:13:51] [Server thread/INFO]: Check out our website
+[10:15:21] [Server thread/INFO]: Explore our server and have fun!
+[10:16:51] [Server thread/INFO]: Check out our website
+[10:17:51] [Server thread/INFO]: Join our community on Discord: here
+[10:19:51] [Server thread/INFO]: Check out our website
+[10:20:21] [Server thread/INFO]: Visit our website: Check out our website
+[10:22:51] [Server thread/INFO]: Check out our website
+[10:22:51] [Server thread/INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+[10:25:21] [Server thread/INFO]: Explore our server and have fun!
+[10:25:51] [Server thread/INFO]: Check out our website
+[10:27:51] [Server thread/INFO]: Join our community on Discord: here
+[10:28:51] [Server thread/INFO]: Check out our website
+[10:30:21] [Server thread/INFO]: Visit our website: Check out our website
+[10:31:51] [Server thread/INFO]: Check out our website
+[10:32:51] [Server thread/INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+[10:34:51] [Server thread/INFO]: Check out our website
+[10:35:21] [Server thread/INFO]: Explore our server and have fun!
+[10:37:51] [Server thread/INFO]: Check out our website
+[10:37:51] [Server thread/INFO]: Join our community on Discord: here
+[10:40:21] [Server thread/INFO]: Visit our website: Check out our website
+[10:40:51] [Server thread/INFO]: Check out our website
+[10:42:51] [Server thread/INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+[10:43:51] [Server thread/INFO]: Check out our website
+[10:45:21] [Server thread/INFO]: Explore our server and have fun!
+[10:46:51] [Server thread/INFO]: Check out our website
+[10:47:51] [Server thread/INFO]: Join our community on Discord: here
+[10:49:51] [Server thread/INFO]: Check out our website
+[10:50:21] [Server thread/INFO]: Visit our website: Check out our website
+[10:52:51] [Server thread/INFO]: Check out our website
+[10:52:51] [Server thread/INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+[10:55:21] [Server thread/INFO]: Explore our server and have fun!
+[10:55:51] [Server thread/INFO]: Check out our website
+[10:57:51] [Server thread/INFO]: Join our community on Discord: here
+[10:58:51] [Server thread/INFO]: Check out our website
+[11:00:21] [Server thread/INFO]: Visit our website: Check out our website
+[11:01:51] [Server thread/INFO]: Check out our website
+[11:02:51] [Server thread/INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+[11:04:51] [Server thread/INFO]: Check out our website
+[11:05:21] [Server thread/INFO]: Explore our server and have fun!
+[11:07:51] [Server thread/INFO]: Check out our website
+[11:07:51] [Server thread/INFO]: Join our community on Discord: here
+[11:10:21] [Server thread/INFO]: Visit our website: Check out our website
+[11:10:51] [Server thread/INFO]: Check out our website
+[11:12:51] [Server thread/INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+[11:13:51] [Server thread/INFO]: Check out our website
+[11:15:21] [Server thread/INFO]: Explore our server and have fun!
+[11:16:51] [Server thread/INFO]: Check out our website
+[11:17:51] [Server thread/INFO]: Join our community on Discord: here
+[11:19:51] [Server thread/INFO]: Check out our website
+[11:20:21] [Server thread/INFO]: Visit our website: Check out our website
+[11:22:51] [Server thread/INFO]: Check out our website
+[11:22:51] [Server thread/INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+[11:25:21] [Server thread/INFO]: Explore our server and have fun!
+[11:25:51] [Server thread/INFO]: Check out our website
+[11:27:51] [Server thread/INFO]: Join our community on Discord: here
+[11:28:51] [Server thread/INFO]: Check out our website
+[11:30:21] [Server thread/INFO]: Visit our website: Check out our website
+[11:31:51] [Server thread/INFO]: Check out our website
+[11:32:51] [Server thread/INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+[11:34:51] [Server thread/INFO]: Check out our website
+[11:35:21] [Server thread/INFO]: Explore our server and have fun!
+[11:37:51] [Server thread/INFO]: Check out our website
+[11:37:51] [Server thread/INFO]: Join our community on Discord: here
+[11:40:21] [Server thread/INFO]: Visit our website: Check out our website
+[11:40:51] [Server thread/INFO]: Check out our website
+[11:42:51] [Server thread/INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+[11:43:51] [Server thread/INFO]: Check out our website
+[11:45:21] [Server thread/INFO]: Explore our server and have fun!
+[11:46:51] [Server thread/INFO]: Check out our website
+[11:47:51] [Server thread/INFO]: Join our community on Discord: here
+[11:49:51] [Server thread/INFO]: Check out our website
+[11:50:21] [Server thread/INFO]: Visit our website: Check out our website
+[11:52:51] [Server thread/INFO]: Check out our website
+[11:52:51] [Server thread/INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+[11:55:21] [Server thread/INFO]: Explore our server and have fun!
+[11:55:51] [Server thread/INFO]: Check out our website
+[11:57:51] [Server thread/INFO]: Join our community on Discord: here
+[11:58:51] [Server thread/INFO]: Check out our website
+[12:00:21] [Server thread/INFO]: Visit our website: Check out our website
+[12:01:51] [Server thread/INFO]: Check out our website
+[12:02:51] [Server thread/INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+[12:04:51] [Server thread/INFO]: Check out our website
+[12:05:21] [Server thread/INFO]: Explore our server and have fun!
+[12:07:51] [Server thread/INFO]: Check out our website
+[12:07:51] [Server thread/INFO]: Join our community on Discord: here
+[12:10:21] [Server thread/INFO]: Visit our website: Check out our website
+[12:10:51] [Server thread/INFO]: Check out our website
+[12:12:51] [Server thread/INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+[12:13:51] [Server thread/INFO]: Check out our website
+[12:15:21] [Server thread/INFO]: Explore our server and have fun!
+[12:16:51] [Server thread/INFO]: Check out our website
+[12:17:51] [Server thread/INFO]: Join our community on Discord: here
+[12:19:51] [Server thread/INFO]: Check out our website
+[12:20:21] [Server thread/INFO]: Visit our website: Check out our website
+[12:22:51] [Server thread/INFO]: Check out our website
+[12:22:51] [Server thread/INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+[12:25:21] [Server thread/INFO]: Explore our server and have fun!
+[12:25:51] [Server thread/INFO]: Check out our website
+[12:27:51] [Server thread/INFO]: Join our community on Discord: here
+[12:28:51] [Server thread/INFO]: Check out our website
+[12:30:21] [Server thread/INFO]: Visit our website: Check out our website
+[12:31:51] [Server thread/INFO]: Check out our website
+[12:32:51] [Server thread/INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+[12:34:51] [Server thread/INFO]: Check out our website
+[12:35:21] [Server thread/INFO]: Explore our server and have fun!
+[12:37:51] [Server thread/INFO]: Check out our website
+[12:37:51] [Server thread/INFO]: Join our community on Discord: here
+[12:40:21] [Server thread/INFO]: Visit our website: Check out our website
+[12:40:51] [Server thread/INFO]: Check out our website
+[12:42:51] [Server thread/INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+[12:43:51] [Server thread/INFO]: Check out our website
+[12:45:21] [Server thread/INFO]: Explore our server and have fun!
+[12:46:51] [Server thread/INFO]: Check out our website
+[12:47:51] [Server thread/INFO]: Join our community on Discord: here
+[12:49:51] [Server thread/INFO]: Check out our website
+[12:50:21] [Server thread/INFO]: Visit our website: Check out our website
+[12:52:51] [Server thread/INFO]: Check out our website
+[12:52:51] [Server thread/INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+[12:55:21] [Server thread/INFO]: Explore our server and have fun!
+[12:55:51] [Server thread/INFO]: Check out our website
+[12:57:51] [Server thread/INFO]: Join our community on Discord: here
+[12:58:51] [Server thread/INFO]: Check out our website
+[13:00:21] [Server thread/INFO]: Visit our website: Check out our website
+[13:01:51] [Server thread/INFO]: Check out our website
+[13:02:51] [Server thread/INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+[13:04:51] [Server thread/INFO]: Check out our website
+[13:05:21] [Server thread/INFO]: Explore our server and have fun!
+[13:07:51] [Server thread/INFO]: Check out our website
+[13:07:51] [Server thread/INFO]: Join our community on Discord: here
+[13:10:21] [Server thread/INFO]: Visit our website: Check out our website
+[13:10:51] [Server thread/INFO]: Check out our website
+[13:12:51] [Server thread/INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+[13:13:51] [Server thread/INFO]: Check out our website
+[13:15:21] [Server thread/INFO]: Explore our server and have fun!
+[13:16:51] [Server thread/INFO]: Check out our website
+[13:17:51] [Server thread/INFO]: Join our community on Discord: here
+[13:19:51] [Server thread/INFO]: Check out our website
+[13:20:21] [Server thread/INFO]: Visit our website: Check out our website
+[13:22:51] [Server thread/INFO]: Check out our website
+[13:22:51] [Server thread/INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+[13:25:21] [Server thread/INFO]: Explore our server and have fun!
+[13:25:51] [Server thread/INFO]: Check out our website
+[13:27:51] [Server thread/INFO]: Join our community on Discord: here
+[13:28:51] [Server thread/INFO]: Check out our website
+[13:30:21] [Server thread/INFO]: Visit our website: Check out our website
+[13:31:51] [Server thread/INFO]: Check out our website
+[13:32:51] [Server thread/INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+[13:34:51] [Server thread/INFO]: Check out our website
+[13:35:21] [Server thread/INFO]: Explore our server and have fun!
+[13:37:51] [Server thread/INFO]: Check out our website
+[13:37:51] [Server thread/INFO]: Join our community on Discord: here
+[13:40:21] [Server thread/INFO]: Visit our website: Check out our website
+[13:40:51] [Server thread/INFO]: Check out our website
+[13:42:51] [Server thread/INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+[13:43:51] [Server thread/INFO]: Check out our website
+[13:45:21] [Server thread/INFO]: Explore our server and have fun!
+[13:46:51] [Server thread/INFO]: Check out our website
+[13:47:51] [Server thread/INFO]: Join our community on Discord: here
+[13:49:51] [Server thread/INFO]: Check out our website
+[13:50:21] [Server thread/INFO]: Visit our website: Check out our website
+[13:52:51] [Server thread/INFO]: Check out our website
+[13:52:51] [Server thread/INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+[13:55:21] [Server thread/INFO]: Explore our server and have fun!
+[13:55:51] [Server thread/INFO]: Check out our website
+[13:57:51] [Server thread/INFO]: Join our community on Discord: here
+[13:58:51] [Server thread/INFO]: Check out our website
+[14:00:21] [Server thread/INFO]: Visit our website: Check out our website
+[14:01:51] [Server thread/INFO]: Check out our website

@@ -1,0 +1,250 @@
+....[10:41:10 INFO]: Check out our website
+....[10:41:40 INFO]: Visit our website: Check out our website
+....[10:44:10 INFO]: Check out our website
+....[10:44:10 INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+....[10:46:40 INFO]: Explore our server and have fun!
+....[10:47:10 INFO]: Check out our website
+....>....[10:47:37 INFO]: This command may only be used in-game.
+....>....[10:47:41 INFO]: Enabled recipe.apprenticeboots, use /magic load to apply pending changes
+....>....[10:48:05 INFO]: Enabled recipe.apprenticechestplate, use /magic load to apply pending changes
+....>....[10:48:22 INFO]: Enabled recipe.apprenticehelmet, use /magic load to apply pending changes
+....>....[10:49:05 INFO]: Enabled recipe.apprenticeleggings, use /magic load to apply pending changes
+....[10:49:10 INFO]: Join our community on Discord: here
+....>....[10:49:20 INFO]: Disabled recipe.broom_booster, use /magic load to apply pending changes
+....>....[10:49:33 INFO]: Enabled recipe.broom_booster, use /magic load to apply pending changes
+....>....[10:49:53 INFO]: Enabled recipe.broom_glider, use /magic load to apply pending changes
+....[10:50:10 INFO]: Check out our website
+....>....[10:50:19 INFO]: Enabled recipe.broomstick, use /magic load to apply pending changes
+....>....[10:50:31 INFO]: Enabled recipe.camera, use /magic load to apply pending changes
+....>....[10:50:49 INFO]: Enabled recipe.coal_ink, use /magic load to apply pending changes
+....>....[10:51:05 INFO]: Enabled recipe.divinghelmet, use /magic load to apply pending changes
+....>....[10:51:27 INFO]: Disabled recipe.emeraldsword, use /magic load to apply pending changes
+....>....[10:51:33 INFO]: Enabled recipe.emeraldsword, use /magic load to apply pending changes
+....[10:51:40 INFO]: Visit our website: Check out our website
+....>....[10:51:45 INFO]: Enabled recipe.flashboots, use /magic load to apply pending changes
+....>....[10:52:04 INFO]: Enabled recipe.goggles, use /magic load to apply pending changes
+....>....[10:52:30 INFO]: Unknown command. Type "/help" for help.
+....>....[10:52:35 INFO]: Enabled recipe.invisiblecloak, use /magic load to apply pending changes
+....>....[10:52:52 INFO]: Enabled recipe.magicbow, use /magic load to apply pending changes
+....>....[10:53:07 INFO]: Enabled recipe.magichat, use /magic load to apply pending changes
+....[10:53:10 INFO]: Check out our website
+....>....[10:53:22 INFO]: Enabled recipe.magicsword, use /magic load to apply pending changes
+....>....[10:53:44 INFO]: Enabled recipe.magictorch, use /magic load to apply pending changes
+....>....[10:53:59 INFO]: Enabled recipe.mastersword, use /magic load to apply pending changes
+....[10:54:10 INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+....>....[10:54:19 INFO]: Enabled recipe.mirrorshield, use /magic load to apply pending changes
+....>....[10:54:44 INFO]: Enabled recipe.ocarina, use /magic load to apply pending changes
+....>....[10:54:58 INFO]: Enabled recipe.rabbitboots, use /magic load to apply pending changes
+....>....[10:55:16 INFO]: Enabled recipe.rocketboots, use /magic load to apply pending changes
+....>....[10:55:51 INFO]: This command may only be used in-game.
+....[10:56:10 INFO]: Check out our website
+....[10:56:40 INFO]: Explore our server and have fun!
+....[10:59:10 INFO]: Check out our website
+....[10:59:10 INFO]: Join our community on Discord: here
+....[11:01:40 INFO]: Visit our website: Check out our website
+....[11:01:56 INFO]: Use /help mconfig [subcommand] for more information
+....[11:01:56 INFO]: /mconfig editor    Launch a web editor
+....[11:01:56 INFO]: /mconfig load      Apply changes from the web editor and reload configs
+....[11:01:56 INFO]: /mconfig apply     Apply changes from the web editor
+....[11:01:56 INFO]: /mconfig example   Enable or disable builtin examples
+....[11:01:56 INFO]: /mconfig disable   Disable a specific wand, spell, item, mob or recipe
+....[11:01:56 INFO]: /mconfig enable    Enable a specific wand, spell, item, mob or recipe
+....[11:01:56 INFO]: /mconfig reset     Delete a customized file, resetting to the builtin version
+....[11:01:56 INFO]: /mconfig configure Change parameters for a spell, wand or other config
+....[11:01:56 INFO]: /mconfig clean     Clean your custom configs, removing default values
+....[11:01:56 INFO]: /mconfig language  Change the language the plugin uses for in-game text
+....[11:02:10 INFO]: Check out our website
+....[11:02:11 INFO]: Please wait while the configuration is reloaded and validated
+....[11:02:12 INFO]: [Magic] Loaded 0 attributes
+....[11:02:12 INFO]: [Magic] Wand crafting is enabled
+....[11:02:12 INFO]: [Magic] Skin-based spell icons disabled
+....[11:02:12 INFO]: [Magic] Registered attributes: [target_fall_distance, regeneration, respiration, projectile_protection, bowpower, degrees, seconds, channeling, target_pitch, humidity, pitch, sharpness, darkness, jump, health_max, efficiency, target_luck, blindness, absorption, target_armor, loyalty, slow_digging, silk_touch, fire_resistance, unluck, invisibility, target_health_max, moon, air_max, slow, mana_max, sweeping, bowpull, damage, weeks, swift_sneak, mending, epoch, protection, air, fast_digging, lure, punch, temperature, frost_walker, movement_speed_bps, power, riptide, health_boost, levitation, increase_damage, poison, health, target_temperature, binding_curse, yaw, mana, glowing, target_health, target_humidity, days, infinity, impaling, bad_omen, luck, thorns, hero_of_the_village, target_hunger, smite, location_x, unbreaking, location_y, target_mana, feather_falling, attack_damage, knockback, fire_aspect, luck_of_the_sea, knockback_resistance, saturation, conduit_power, location_z, target_air, bane_of_arthropods, soul_speed, night_vision, level, minutes, water_breathing, fall_distance, quick_charge, aqua_affinity, multishot, hunger, slow_falling, difficulty, armor, fulltime, blast_protection, confusion, damage_dealt, harm, piercing, fire_protection, target_yaw, dolphins_grace, speed, damage_resistance, weakness, heal, target_mana_max, hours, fortune, looting, target_air_max, movement_speed, play_time, depth_strider, xp, target_location_x, pi, target_location_y, vanishing_curse, target_knockback_resistance, target_location_z, time, flame, wither]
+....[11:02:12 INFO]: [Magic] Loaded 182 icons
+....[11:02:12 INFO]: [Magic] Loaded 12 effect lists
+....[11:02:12 INFO]: [Magic] Loaded 1402 items
+....[11:02:12 INFO]: [Magic] Loaded 199 wands
+....[11:02:12 INFO]: [Magic] Loaded 2 kits
+....[11:02:12 INFO]: [Magic] Loaded 10 classes
+....[11:02:12 INFO]: [Magic] Loaded 5 classes
+....[11:02:12 INFO]: [Magic] Loaded 48 mob templates
+....[11:02:12 INFO]: [Magic] Loaded 8 automata templates
+....[11:02:12 INFO]: [Magic] Loaded 0 customized worlds
+....[11:02:12 INFO]: [Magic] AureliumSkills found, will integrate for skill/stat attributes,xp currencies
+....[11:02:12 INFO]: [Magic]   If you want Magic spells to use AureliumSkills mana, use &7/mconfig configure config aurelium_skills.use_mana true
+....[11:02:12 INFO]: [Magic] Registered AureliumSkills XP as currencies: FARMING,FORAGING,MINING,FISHING,EXCAVATION,ARCHERY,DEFENSE,FIGHTING,ENDURANCE,AGILITY,ALCHEMY,ENCHANTING,SORCERY,HEALING,FORGING
+....[11:02:12 INFO]: [Magic] Registered currencies: AGILITY,EXCAVATION,DEFENSE,item,ARCHERY,FORGING,ENDURANCE,SORCERY,health,FARMING,HEALING,FIGHTING,hunger,FORAGING,FISHING,mana,ALCHEMY,xp,currency,ENCHANTING,sp,levels,MINING
+....[11:02:13 INFO]: [Magic] Loaded 555 spells
+....[11:02:13 INFO]: [Magic] Loaded 12 progression paths
+....[11:02:13 INFO]: [Magic] Loaded 27 crafting recipes
+....[11:02:13 INFO]: [Magic] Loaded 1 arenas
+....[11:02:13 INFO]: [Magic] Registered additional attributes: [WISDOM, AGILITY, EXCAVATION, DEFENSE, ARCHERY, FORGING, ENDURANCE, REGENERATION, SORCERY, STRENGTH, FARMING, HEALING, FIGHTING, LUCK, FORAGING, FISHING, TOUGHNESS, ALCHEMY, HEALTH, ENCHANTING, MINING]
+....[11:02:13 INFO]: Finished loading, No issues found!
+....[11:02:27 INFO]: This command may only be used in-game.
+....[11:02:37 INFO]: [Not Secure] [Server] getrp all
+....[11:02:49 INFO]: [Not Secure] [Server] /getrp all
+....[11:04:10 INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+....[11:05:10 INFO]: Check out our website
+....[11:06:40 INFO]: Explore our server and have fun!
+....[11:08:10 INFO]: Check out our website
+....[11:08:46 INFO]: UUID of player SableSUIII is 408809da-af6a-39f8-8ff5-42b28fb0bb2e
+....[11:08:46 INFO]: false
+....[11:08:46 INFO]: SableSUIII[/103.225.59.175:39520] logged in with entity id 323 at ([world]-64.5, 67.0, -1.5)
+....[11:09:10 INFO]: Join our community on Discord: here
+....[11:09:31 INFO]: SableSUIII lost connection: You took too long to register.
+....[11:09:41 INFO]: UUID of player SableSUIII is 408809da-af6a-39f8-8ff5-42b28fb0bb2e
+....[11:09:41 INFO]: false
+....[11:09:41 INFO]: SableSUIII[/103.225.59.175:40094] logged in with entity id 475 at ([world]-64.5, 67.0, -1.5)
+....[11:10:05 INFO]: [DiscordSRV] Chat: [Discord | Co-owner] flamekitten > https://tenor.com/bVxC9.gif
+....[11:10:24 INFO]: [nLogin] The user SableSUIII has successfully registered.
+....[11:10:28 INFO]: [DiscordSRV] Chat: [Discord | Co-owner] flamekitten > https://tenor.com/bLRVe.gif
+....[11:10:28 INFO]: SableSUIII: hi
+....[11:10:57 INFO]: SableSUIII: im testing pojav launcher
+....[11:11:10 INFO]: Check out our website
+....[11:11:30 INFO]: SableSUIII issued server command: /mgive wand
+....[11:11:40 INFO]: Visit our website: Check out our website
+....[11:11:47 INFO]: SableSUIII issued server command: /mgive @s wand
+....>....[11:12:12 INFO]:                                 .
+....[11:12:12 INFO]:          MAGIC HELP  
+....[11:12:12 INFO]:                                 .
+....[11:12:12 INFO]:   Please type the /mhelp commands as shown to navigate help
+....[11:12:12 INFO]:   Works better in-game!
+....[11:12:12 INFO]:   ⎯⎯⎯⎯⎯⎯⎯⎯  General Help  ⎯⎯⎯⎯⎯⎯⎯⎯⎯
+....[11:12:12 INFO]: • Help with commands /mhelp commands ➽
+....[11:12:12 INFO]: • Help with examples /mhelp examples.main ➽ (inluding survival)
+....[11:12:12 INFO]: • Help with the resource pack /mhelp resourcepack ➽
+....[11:12:12 INFO]: • Common Problems and Solutions /mhelp faq ➽
+....[11:12:12 INFO]: • Customization, localization and languages /mhelp customization ➽
+....[11:12:12 INFO]: • Other Magic features /mhelp features ➽
+....[11:12:12 INFO]: • Links to web help and support /mhelp links ➽
+....[11:12:12 INFO]: • Help getting and using wands /mhelp examples.survival.wands ➽
+....[11:12:12 INFO]: ---------------------------
+....>....[11:12:22 INFO]: Console usage: mgive <player> <item> [count]
+....>....[11:13:08 INFO]: Made SableSUIII a server operator
+....[11:13:21 INFO]: SableSUIII issued server command: /mgive SableSUIII wand 1
+....[11:13:51 INFO]: SableSUIII issued server command: /getrp all
+....[11:13:56 INFO]: Checking resource pack for the first time
+....[11:13:56 INFO]: Resource pack hash set to T0UWETdF6EakXF/dl/Tt5YQJ+cY=
+....[11:14:10 INFO]: Check out our website
+....[11:14:10 INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+....[11:14:30 INFO]: SableSUIII lost connection: Disconnected
+....[11:16:40 INFO]: Explore our server and have fun!
+....[11:17:10 INFO]: Check out our website
+....[11:19:10 INFO]: Join our community on Discord: here
+....[11:20:10 INFO]: Check out our website
+....[11:21:40 INFO]: Visit our website: Check out our website
+....[11:23:10 INFO]: Check out our website
+....[11:24:10 INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+....[11:26:10 INFO]: Check out our website
+....[11:26:40 INFO]: Explore our server and have fun!
+....[11:29:10 INFO]: Check out our website
+....[11:29:10 INFO]: Join our community on Discord: here
+....[11:31:40 INFO]: Visit our website: Check out our website
+....[11:32:10 INFO]: Check out our website
+....[11:34:10 INFO]: Need help with spells and recipes? Check this out: Need help with spells and recipes?
+....[11:35:10 INFO]: Check out our website
+....[11:36:40 INFO]: Explore our server and have fun!
+....[11:38:10 INFO]: Check out our website
+....[11:39:10 INFO]: Join our community on Discord: here
+....[11:41:10 INFO]: Check out our website
+....[11:41:40 INFO]: Visit our website: Check out our website
+....[11:41:53 INFO]: [DiscordSRV] Chat: [Discord | Owner] SableUwU (replying to flamekitten) > sui maro
+....>....[11:42:35 INFO]: [Magic] Server is shutting down, closing all wand inventories
+....[11:42:35 INFO]: Stopping the server
+....[11:42:35 INFO]: Stopping server
+....[11:42:35 INFO]: [nLogin] Disabling nLogin v10.2.27
+....[11:42:35 INFO]: [nLogin] Could not update: update was not confirmed by the user.
+....[11:42:35 INFO]: [nLogin] Successful plugin core shutdown (took 0.00s)
+....[11:42:35 INFO]: [AutoBroadcast] Disabling AutoBroadcast v1.5.1
+....[11:42:35 INFO]: [CSL] Disabling ChunkSpawnerLimiter v4.3.2
+....[11:42:35 INFO]: [ViaRewind] Disabling ViaRewind v2.0.3
+....[11:42:35 INFO]: [TeaksTweaks] Disabling TeaksTweaks v1.10.4-beta
+....[11:42:35 INFO]: [TeaksTweaks] [INFO] Teaks Tweaks Shutting Down...
+....[11:42:35 INFO]: [TerraformGenerator] Disabling TerraformGenerator v10.0.0
+....[11:42:35 INFO]: [SkinsRestorer] Disabling SkinsRestorer v14.2.12
+....[11:42:35 INFO]: [StackMob] Disabling StackMob v5.8.7
+....[11:42:35 INFO]: [SkBee] Disabling SkBee v2.18.0
+....[11:42:35 INFO]: [Back] Disabling Back v1.3
+....[11:42:35 INFO]: ----------------------------
+....[11:42:35 INFO]: Back Plugin Disabled!
+....[11:42:35 INFO]: Plugin developed by GFelberg
+....[11:42:35 INFO]: ----------------------------
+....[11:42:35 INFO]: [DiscordSRV] Disabling DiscordSRV v1.26.2
+....[11:42:35 INFO]: [DiscordSRV] Saved linked accounts in 2ms
+....[11:42:36 INFO]: [DiscordSRV] Shutdown completed in 920ms
+....[11:42:36 INFO]: [nAntiBot] Disabling nAntiBot v6.1.0
+....[11:42:36 INFO]: [nAntiBot] Update was successfully queued, do not forcibly stop your server. (v6.1.0 7cc4fc => v6.1.1 da296c)
+....[11:42:36 INFO]: [nAntiBot] Successful plugin core shutdown (took 0.06s)
+....[11:42:36 INFO]: [nAntiBot] Disconnecting from remote server...
+....[11:42:38 INFO]: [ScalaLoader] Disabling ScalaLoader v0.18.11-SNAPSHOT
+....[11:42:38 INFO]: [Tamablefoxes] Disabling Tamablefoxes v2.2.10-SNAPSHOT
+....[11:42:38 INFO]: [Tamable Foxes] Saving foxes.
+....[11:42:38 INFO]: [BackpacksRemastered] Disabling BackpacksRemastered v2022.1.8
+....[11:42:38 INFO]: [BackpacksRemastered] BackpacksRemastered v2022.1.8 (git: 87134ed) has been disabled.
+....[11:42:38 INFO]: [BetterCommandSpy] Disabling BetterCommandSpy v2.0.4-b29
+....[11:42:38 INFO]: [Zenchantments] Disabling Zenchantments v18.0.0
+....[11:42:38 INFO]: [ServerListPlus] Disabling ServerListPlus v3.5.0
+....[11:42:38 INFO]: [ServerListPlus] ServerListPlus v3.5.0 disabled.
+....[11:42:38 INFO]: [NeoPerformance] Disabling NeoPerformance v1.14.4
+....[11:42:38 INFO]: [LevelledMobs] Disabling LevelledMobs v3.12.0 b777
+....[11:42:38 INFO]: LevelledMobs: Tasks: Shutting down other async tasks...
+....[11:42:38 INFO]: LevelledMobs: Shut-down complete (took 1ms)
+....[11:42:38 INFO]: [ChatManager] Disabling ChatManager v1.2
+....[11:42:38 INFO]: [ViaBackwards] Disabling ViaBackwards v4.7.0
+....[11:42:38 INFO]: [Skript] Disabling Skript v2.7.0
+....[11:42:38 INFO]: [spark] Disabling spark v1.10.34
+....[11:42:38 INFO]: LevelledMobs: Mob processing queue Manager has exited
+....[11:42:38 INFO]: [Magic] Disabling Magic v10.8.9-845a296
+....[11:42:38 INFO]: [PlaceholderAPI] Unregistered placeholder expansion magic
+....[11:42:38 INFO]: [PlaceholderAPI] Reason: required plugin Magic was disabled.
+....[11:42:38 INFO]: [NoCheatPlus] Disabling NoCheatPlus v3.17.1-SNAPSHOT-Updated-b167
+....[11:42:38 INFO]: [NoCheatPlus] Removed hook: ViolationFrequency(NCP) [1.0].
+....[11:42:38 INFO]: [NoCheatPlus] Removed hook: AllViolations(NCP) [1.0].
+....[11:42:38 INFO]: [NoCheatPlus] Version 3.17.1-SNAPSHOT-Updated-b167 is disabled.
+....[11:42:38 INFO]: [AureliumSkills] Disabling AureliumSkills vBeta 1.3.21
+....[11:42:38 INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.3
+....[11:42:38 INFO]: [LuckPerms] Disabling LuckPerms v5.4.40
+....[11:42:38 INFO]: [LuckPerms] Starting shutdown process...
+....[11:42:38 INFO]: [LuckPerms] Closing storage...
+....[11:42:38 INFO]: LevelledMobs: Nametag update queue Manager has exited
+....[11:42:38 INFO]: [LuckPerms] Goodbye!
+....[11:42:38 INFO]: [ProtocolLib] Disabling ProtocolLib v5.0.0
+....[11:42:38 INFO]: [ViaVersion] Disabling ViaVersion v4.7.0
+....[11:42:38 INFO]: [ViaVersion] ViaVersion is disabling, if this is a reload and you experience issues consider rebooting.
+....[11:42:38 INFO]: Saving players
+....[11:42:39 INFO]: Saving worlds
+....[11:42:39 INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+....[11:42:39 INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+....[11:42:39 INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+....[11:42:39 INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+....[11:42:39 INFO]: [ChunkHolderManager] Saved 3 block chunks, 181 entity chunks, 0 poi chunks in world 'world' in 0.03s
+....[11:42:39 INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+....[11:42:39 INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+....[11:42:39 INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+....[11:42:39 INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+....[11:42:39 INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+....[11:42:39 INFO]: [ChunkHolderManager] Saved 4 block chunks, 75 entity chunks, 0 poi chunks in world 'world_nether' in 0.02s
+....[11:42:39 INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+....[11:42:39 INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+....[11:42:39 INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+....[11:42:39 INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+....[11:42:39 INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+....[11:42:39 INFO]: [ChunkHolderManager] Saved 10 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+....[11:42:39 INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+....[11:42:39 INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+....[11:42:39 INFO]: Flushing Chunk IO
+....2023-09-26 11:42:39,206 Log4j2-AsyncAppenderEventDispatcher-1-Async WARN Advanced terminal features are not available in this environment
+[11:42:39 INFO]: Closing Thread Pool
+[11:42:39 INFO]: Closing Server
+[Pterodactyl Daemon]: Checking server disk space usage, this could take a few seconds...
+[Pterodactyl Daemon]: Updating process configuration files...
+[Pterodactyl Daemon]: Ensuring file permissions are set correctly, this could take a few seconds...
+[Pterodactyl Daemon]: Pulling Docker container image, this could take a few minutes to complete...
+[Pterodactyl Daemon]: Finished pulling Docker container image
+container@pterodactyl~ java -version
+openjdk version "18.0.2.1" 2022-08-18
+OpenJDK Runtime Environment Temurin-18.0.2.1+1 (build 18.0.2.1+1)
+OpenJDK 64-Bit Server VM Temurin-18.0.2.1+1 (build 18.0.2.1+1, mixed mode, sharing)
+container@pterodactyl~ java -XX:+UseG1GC -XX:+ParallelRefProcEnabled -XX:MaxGCPauseMillis=200 -XX:+UnlockExperimentalVMOptions -XX:+DisableExplicitGC -XX:+AlwaysPreTouch -XX:G1NewSizePercent=30 -XX:G1MaxNewSizePercent=40 -XX:G1HeapRegionSize=8M -XX:G1ReservePercent=20 -XX:G1HeapWastePercent=5 -XX:G1MixedGCCountTarget=4 -XX:InitiatingHeapOccupancyPercent=15 -XX:G1MixedGCLiveThresholdPercent=90 -XX:G1RSetUpdatingPauseTimePercent=5 -XX:SurvivorRatio=32 -XX:+PerfDisableSharedMem -XX:MaxTenuringThreshold=1 -Dusing.aikars.flags=https://mcflags.emc.gs -Daikars.new.flags=true -Xms512M -Xmx5632M -jar server.jar --nogui
+Starting org.bukkit.craftbukkit.Main
+[11:42:43 INFO]: System Info: Java 18 (OpenJDK 64-Bit Server VM 18.0.2.1+1) Host: Linux 5.15.0-1040-oracle (aarch64)
+[11:42:43 INFO]: Loading libraries, please wait...
