@@ -10,7 +10,7 @@ You can join effortlessly with our server IP: `meowcraft.zableey.com`. For Bedro
 
 - **Website:** [MeowCraft](https://meowcraft.rf.gd/#)
 
-- **Discord Community:** [Join now for updates!](https://discord.gg/kGhNnYpmGh)
+- **Discord Community:** [Join now for updates!](https://discord.com/invite/t4NUmXMX2s)
 
 - **YouTube Channel:** [MeowCraft SMP Official](https://youtube.com/<@&1120201155033694268>_SMP_Official)
 
